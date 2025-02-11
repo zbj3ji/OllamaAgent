@@ -2,7 +2,7 @@
 Demonstration of OllamaAgent made completely from scratch in Python. This is just a show case, how such agents can be implemented.
 
 ## 1. Ollama installation
-Please follow [these steps](https://github.com/ollama/ollama) to install Ollama server on your device. After installation we will be using following to models to demonstrate agent functionality:
+Please follow [these steps](https://github.com/ollama/ollama) to install Ollama server on your device. After installation we will be using following LLM models to demonstrate agent functionality:
 - **Mistral** - to work with text part of the file (can be of course replaced by any other model based on your own preferences, e.g. by **DeepSeek-R1**)
 - **Llava** - to work with images in our PDF files
 
